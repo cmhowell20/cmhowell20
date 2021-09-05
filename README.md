@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I’m currently learning "React" ready to finish my last Zero to Blockchain bootcamp corhort @ Kingsland University....
+🌱 I’m currently learning "React" & ready to finish my last Zero to Blockchain bootcamp corhort @ Kingsland University....
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
