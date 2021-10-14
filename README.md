@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I’m currently learning "React" & ready to finish my last Zero to Blockchain bootcamp corhort @ Kingsland University....then full speed into solidity blockchain programming 
+🌱 Just graduated 10/13/2021 from the Full-Stack JavaScript Developer bootcamp corhort @ Kingsland University....now it's full speed ahead into solidityblockchain programming. 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
